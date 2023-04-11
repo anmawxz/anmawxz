@@ -30,7 +30,6 @@
   <img align="right" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="right" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="right" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
@@ -40,11 +39,9 @@
   ##
   
   
-<!--psyducks div img with two sm images for the sake of css margin-->
+<!--psyducks div img with a sm images for the sake of css margin-->
 <div style="display: inline_block">
-  <img align="left" src="span.png" width="5">
-  
-  
+  <img align="left" src="span.png" width="5">  
 </div>
 
 <!--language stats by anuraghazra-->
@@ -56,5 +53,7 @@
   ##
 
 
+
+<img align="left" src="https://media.tenor.com/nh5GiWZW1g4AAAAC/psyduck-floaty.gif" width="100">
 <!--true treasure-->
 <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
