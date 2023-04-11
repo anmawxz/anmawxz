@@ -42,16 +42,15 @@
   
 <!--psyducks div img with two sm images for the sake of css margin-->
 <div style="display: inline_block">
-  <img align="left" src="span.png" width="20">
-  
+  <img align="left" src="span.png" width="5">
   <img align="left" src="https://media.tenor.com/nh5GiWZW1g4AAAAC/psyduck-floaty.gif" width="200">
-  
-  <img align="left" src="span.png" width="20"> 
+  <img align="left" src="https://media.tenor.com/nh5GiWZW1g4AAAAC/psyduck-floaty.gif" width="20">
 </div>
 
-
 <!--language stats by anuraghazra-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmawxz&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+<br>
 
 
   ##
