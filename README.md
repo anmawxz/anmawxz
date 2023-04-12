@@ -45,7 +45,7 @@
 </div>
 
 <!--language stats by anuraghazra-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmawxz&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmawxz&layout=compact&langs_count=7&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <br>
 
