@@ -19,7 +19,7 @@ jobs:
       - name: Generate GitHub profile 3D contributions
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push changes
