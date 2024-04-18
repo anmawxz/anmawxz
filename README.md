@@ -53,17 +53,20 @@
   ##
 
 
-<img align="left" src="https://media.tenor.com/nh5GiWZW1g4AAAAC/psyduck-floaty.gif" width="200">
 
+<div>
+  <img src="https://media.tenor.com/nh5GiWZW1g4AAAAC/psyduck-floaty.gif" width="200">
+  <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card"> <!--true treasure-->
+</div>
 
-
-<!--true treasure-->
-<img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 
 ##
 
-<div align="center" >
-  <a href="https://skillicons.dev"   >
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
-  </a>
+<br>
+
+<!--tech icons-->
+<div>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=styledcomponents,js,html,css,nodejs,react,nextjs,vite,threejs,aws,bitbucket,git,github,webpack,docker,heroku,vercel,tailwind,figma,flutter,prisma,cypress,linux,vim" />
+    </p>
 </div>
