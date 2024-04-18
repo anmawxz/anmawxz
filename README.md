@@ -1,7 +1,13 @@
-### Olá! Estou cursando ciência da computação e postarei aqui os meus projetos💖🔭
 <!--
 **anmawxz/anmawxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+##
+
+### Olá! Estou cursando ciência da computação e postarei aqui os meus projetos💖🔭
+
 <br>
 
 <!--pink keyboard gif-->
