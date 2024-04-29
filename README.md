@@ -73,6 +73,6 @@
 <!--tech icons-->
 <div>
     <p align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents,js,html,css,nodejs,react,nextjs,vite,threejs,aws,bitbucket,bash,git,github,webpack,docker,heroku,vercel,tailwind,figma,flutter,prisma,cypress,linux,vim,nginx" />
+      <img src="https://skillicons.dev/icons?i=styledcomponents,js,html,css,nodejs,react,nextjs,vite,threejs,aws,bitbucket,bash,git,github,webpack,docker,heroku,vercel,alpinejs,tailwind,figma,flutter,prisma,cypress,linux,vim,nginx" />
     </p>
 </div>
