@@ -13,8 +13,10 @@
 <!--pink keyboard gif-->
 <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://64.media.tumblr.com/80c31342301504b079e7e2079a06b4be/2a6086fc28a4d516-21/s500x750/7ca7b15c7e85b4d1a4dc363bf3d1fafa58c44ba1.gifv">
 
-<!--stats card by anuraghzra-->
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anmawxz&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card"> <!--true treasure-->
+
+<!--stats card by anuraghzra
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anmawxz&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
 
 <!--linkedin button and some cute gifs I found-->
 <div> 
@@ -41,33 +43,29 @@
 </div>
 <br>
   
-
   ##
   
-  
-<!--psyducks div img with a sm images for the sake of css margin-->
+
 <div style="display: inline_block">
   <img align="left" src="span.png" width="5">  
 </div>
-
-<!--language stats by anuraghazra-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmawxz&layout=compact&langs_count=7&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<img src="https://media.tenor.com/nh5GiWZW1g4AAAAC/psyduck-floaty.gif" width="200">
 
 <br>
 
+<!--language stats by anuraghazra
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmawxz&layout=compact&langs_count=7&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)-->
 
+<!--
+<br>
   ##
-
-
-
 <div>
   <img src="https://media.tenor.com/nh5GiWZW1g4AAAAC/psyduck-floaty.gif" width="200">
-  <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card"> <!--true treasure-->
-</div>
+  <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card">
+</div> -->
 
 
-##
-
+  ## 
 <br>
 
 <!--tech icons-->
