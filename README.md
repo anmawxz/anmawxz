@@ -6,7 +6,8 @@
 
 ##
 
-### Hi! I'm a 22-year-old Computer Science graduate working as a DevOps Engineer. With experience in gamified web development, I'm now fully focused on honing my skills and growing in the DevOps field. In my spare time, I enjoy diving into physics and astronomy. 💖🔭
+<p> Hi! I'm a 22-year-old Computer Science graduate working as a DevOps Engineer. With experience in gamified web development, I'm now fully focused on honing my skills and growing in the DevOps field. In my spare time, I enjoy diving into physics and astronomy. 💖🔭
+</p>
 
 <br>
 
